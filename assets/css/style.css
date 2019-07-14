@@ -26,15 +26,23 @@
     background-color: #e67e22;
 }
 
-.ui-menu-color-resume {
+.ui-menu-color-fr {
     background-color: #9b59b6;
 }
 
-.ui-menu-color-contact {
+.ui-menu-color-or {
     background-color: #3498db;
 }
 
-.ui-menu-color-download {
+.ui-menu-color-er {
+    background-color: #56C780;
+}
+
+.ui-menu-color-mr {
+    background-color: #EBE66B;
+}
+
+.ui-menu-color-rt {
     background-color: #525252;
 }
 
@@ -108,11 +116,11 @@ header {
 
 
 .logo {
-    background: url("../images/mirkop.jpeg");
+    background: url("../images/logo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    min-height: 120px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -193,7 +201,7 @@ header {
 /* ----------------------------------------Footer */
 
 footer {
-    background-color: #1B958D;
+    background-color: #77223C;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
